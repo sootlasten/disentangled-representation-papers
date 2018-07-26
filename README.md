@@ -14,8 +14,8 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 ### 2016
 
 * Understanding disentangling in β-VAE (Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
-* *** β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae)
-* *** InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (Chen et. al.) [[paper]](https://arxiv.org/abs/1606.03657) [[code]](https://github.com/openai/InfoGAN) 
+* __***__ β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae)
+* __***__ InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (Chen et. al.) [[paper]](https://arxiv.org/abs/1606.03657) [[code]](https://github.com/openai/InfoGAN) 
 
 ### 2015
 
