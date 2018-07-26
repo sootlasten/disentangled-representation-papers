@@ -1,8 +1,8 @@
 This is a curated list of papers on disentangled (and an occasional "conventional") representation learning. Within each year, the papers are ordered from newest to oldest. I've scored the importance/quality of each paper (in my own personal opinion) on a scale of 1 to 3, as indicated by the number of stars in front of each entry in the list. The logic behind scoring is as follows:
 
-1. \*: Likely worth reading only if you're interested in doing research in the subfield yourself, and need some concrete ideas for (incremental) improvements. 
-2. **: A good paper, and was likely state-of-the-art during the time it was published. However, it has since been superseded by other works, and it didn't have enough fundamental substance for it to be a must-read at present. 
-3. __***__: A must read. Either contains current state of the art results, or has interesting underdeveloped insights.
+1. \* -Likely worth reading only if you're interested in doing research in the subfield yourself, and need some concrete ideas for (incremental) improvements. 
+2. ** - A good paper, and was likely state-of-the-art during the time it was published. However, it has since been superseded by other works, and it didn't have enough fundamental substance for it to be a must-read at present. 
+3. __***__ - A must read. Either contains current state of the art results, or has interesting underdeveloped insights.
 
 ### 2018 
 
