@@ -6,6 +6,8 @@
 
 ### 2016
 
+* [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Higgins et. al.)](https://openreview.net/forum?id=Sy2fzU9gl)
+
 ### Older gems
 
 * [Representation Learning: A Review and New Perspectives (Bengio et. al.)](https://arxiv.org/abs/1206.5538?context=cs)
