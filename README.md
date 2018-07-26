@@ -13,7 +13,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ### 2016
 
-* __*__ Understanding disentangling in β-VAE (Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
+* \* Understanding disentangling in β-VAE (Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
 * __***__ β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae)
 * __***__ InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (Chen et. al.) [[paper]](https://arxiv.org/abs/1606.03657) [[code]](https://github.com/openai/InfoGAN) 
 
@@ -23,5 +23,5 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ### Older gems
 
-* *** Representation Learning: A Review and New Perspectives (Bengio et. al.) [[paper]](https://arxiv.org/abs/1206.5538?context=cs)
-* * Learning Factorial Codes By Predictability Minimization (Schmidhuber) [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.6.863)
+* __***__ Representation Learning: A Review and New Perspectives (Bengio et. al.) [[paper]](https://arxiv.org/abs/1206.5538?context=cs)
+* \* Learning Factorial Codes By Predictability Minimization (Schmidhuber) [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.6.863)
