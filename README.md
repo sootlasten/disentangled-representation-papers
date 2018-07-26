@@ -14,6 +14,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
  
 ## 2017
 
+* ** The Multi-Entity Variational Autoencoder (Dec, Nash et. al.) [[paper]](http://charlienash.github.io/assets/docs/mevae2017.pdf)
 * ? Learning Independent Causal Mechanisms (Dec, Parascandolo et. al.) [[paper]](https://arxiv.org/abs/1712.00961)
 * \* Neural Discrete Representation Learning (Nov, Oord et. al.) [[paper]](https://arxiv.org/abs/1711.00937v2)
 * ? Disentangled Representations via Synergy Minimization (Oct, Steeg et. al.) [[paper]](https://arxiv.org/abs/1710.03839v1)
