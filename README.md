@@ -7,9 +7,9 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
  
 ## 2017
 
-* __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
-* \* The Consciousness Prior (Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
 * \* Experiments on the Consciousness Prior (Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
+* \* The Consciousness Prior (Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
+* __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
 
 ## 2016
 
