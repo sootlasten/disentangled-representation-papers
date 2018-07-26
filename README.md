@@ -7,9 +7,9 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
  
 ### 2017
 
-* __**__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
-* __*__ The Consciousness Prior (Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
-* __*__ Experiments on the Consciousness Prior (Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
+* ** DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
+* * The Consciousness Prior (Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
+* * Experiments on the Consciousness Prior (Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
 
 ### 2016
 
@@ -19,9 +19,9 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ### 2015
 
-* Deep Convolutional Inverse Graphics Network (Kulkarni et. al.) [[paper]](https://arxiv.org/abs/1503.03167)
+* ** Deep Convolutional Inverse Graphics Network (Kulkarni et. al.) [[paper]](https://arxiv.org/abs/1503.03167)
 
 ### Older gems
 
-* Representation Learning: A Review and New Perspectives (Bengio et. al.) [[paper]](https://arxiv.org/abs/1206.5538?context=cs)
-* Learning Factorial Codes By Predictability Minimization (Schmidhuber) [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.6.863)
+* *** Representation Learning: A Review and New Perspectives (Bengio et. al.) [[paper]](https://arxiv.org/abs/1206.5538?context=cs)
+* * Learning Factorial Codes By Predictability Minimization (Schmidhuber) [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.6.863)
