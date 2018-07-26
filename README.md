@@ -2,23 +2,23 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ## 2018 
 
-* \* Learning Disentangled Joint Continuous and Discrete Representations (Dupont) [[paper]](https://arxiv.org/abs/1804.00104)
-* __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2)
-* ** Disentangling by Factorising (Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
+* \* Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104)
 * \* Understanding disentangling in β-VAE (Apr, Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
+* __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Mar, Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2)
+* ** Disentangling by Factorising (Feb, Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
+* ** Disentangling the independently controllable factors of variation by interacting with the world (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484) 
  
 ## 2017
 
-* ** Disentangling the independently controllable factors of variation by interacting with the world (Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484) 
-* \* SCAN: Learning Hierarchical Compositional Visual Concepts [[paper]](https://arxiv.org/abs/1707.03389)
-* \* Experiments on the Consciousness Prior (Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
-* ** The Consciousness Prior (Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
-* __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
+* \* Experiments on the Consciousness Prior (Sep, Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
+* ** The Consciousness Prior (Sep, Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
+* \* SCAN: Learning Hierarchical Compositional Visual Concepts [[paper]](Jul, https://arxiv.org/abs/1707.03389)
+* __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Jul, Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
 
 ## 2016
 
-* ** Deep Variational Information Bottleneck (Alemi et. al.) [[paper]](https://arxiv.org/abs/1612.00410)
-* __***__ β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Nov, Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae)https://arxiv.org/abs/1611.01353)
+* ** Deep Variational Information Bottleneck (Dec, Alemi et. al.) [[paper]](https://arxiv.org/abs/1612.00410)
+* __***__ β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Nov, Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae)
 * ** Information Dropout: Learning Optimal Representations Through Noisy Computation (Nov, Achille & Soatto) [[paper]](https://arxiv.org/abs/1611.01353)
 * __***__ InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (Jun, Chen et. al.) [[paper]](https://arxiv.org/abs/1606.03657)
 * __***__ Building Machines That Learn and Think Like People (Apr, Lake et. al.) [[paper]](https://arxiv.org/abs/1604.00289)
