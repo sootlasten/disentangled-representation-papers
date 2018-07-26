@@ -1,7 +1,8 @@
 ### 2018 
 
-
-
+* Disentangling by Factorising (Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
+* Isolating Sources of Disentanglement in Variational Autoencoders (Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2)
+ 
 ### 2017
 
 ### 2016
