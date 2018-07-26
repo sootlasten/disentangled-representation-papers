@@ -2,6 +2,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ## 2018 
 
+* * Learning Disentangled Joint Continuous and Discrete Representations (Dupont) [[paper]](https://arxiv.org/abs/1804.00104)
 * __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2)
 * ** Disentangling by Factorising (Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
  
