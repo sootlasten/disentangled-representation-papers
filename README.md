@@ -14,6 +14,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
  
 ## 2017
 
+* ? Learning Independent Causal Mechanisms (Dec, Parascandolo et. al.) [[paper]](https://arxiv.org/abs/1712.00961)
 * \* Neural Discrete Representation Learning (Nov, Oord et. al.) [[paper]](https://arxiv.org/abs/1711.00937v2)
 * ? Disentangled Representations via Synergy Minimization (Oct, Steeg et. al.) [[paper]](https://arxiv.org/abs/1710.03839v1)
 * \* Experiments on the Consciousness Prior (Sep, Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
@@ -23,7 +24,6 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ? Emergence of Invariance and Disentanglement in Deep Representations (Jun, Achille & Soatto) [[paper]](https://arxiv.org/abs/1706.01350)
 * ** A simple neural network module for relational reasoning (Jun, Santoro et. al.) [[paper]](https://arxiv.org/abs/1706.01427)
 * ? Unsupervised Learning of Disentangled Representations from Video (May, Denton & Birodkar) [[paper]](https://arxiv.org/abs/1705.10915)
-* ? Learning Independent Causal Mechanisms (Dec, Parascandolo et. al.) [[paper]](https://arxiv.org/abs/1712.00961)
 
 ## 2016
 
