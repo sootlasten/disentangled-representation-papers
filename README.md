@@ -19,6 +19,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * \* Understanding disentangling in β-VAE (Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
 * __***__ β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae)
 * __***__ InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (Chen et. al.) [[paper]](https://arxiv.org/abs/1606.03657)
+* __***__ Building Machines That Learn and Think Like People (Lake et. al.) [[paper]](https://arxiv.org/abs/1604.00289)
 
 ## 2015
 
