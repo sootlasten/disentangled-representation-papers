@@ -13,7 +13,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
  
 ## 2017
 
-* * Neural Discrete Representation Learning (Nov, Oord et. al.) [[paper]](https://arxiv.org/abs/1711.00937v2)
+* \* Neural Discrete Representation Learning (Nov, Oord et. al.) [[paper]](https://arxiv.org/abs/1711.00937v2)
 * ? Disentangled Representations via Synergy Minimization (Oct, Steeg et. al.) [[paper]](https://arxiv.org/abs/1710.03839v1)
 * \* Experiments on the Consciousness Prior (Sep, Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
 * ** The Consciousness Prior (Sep, Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
