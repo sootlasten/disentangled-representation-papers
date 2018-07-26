@@ -22,6 +22,8 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Jul, Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
 * ? Emergence of Invariance and Disentanglement in Deep Representations (Jun, Achille & Soatto) [[paper]](https://arxiv.org/abs/1706.01350)
 * ** A simple neural network module for relational reasoning (Jun, Santoro et. al.) [[paper]](https://arxiv.org/abs/1706.01427)
+* ? Unsupervised Learning of Disentangled Representations from Video (May, Denton & Birodkar) [[paper]](https://arxiv.org/abs/1705.10915)
+* ? Learning Independent Causal Mechanisms (Dec, Parascandolo et. al.) [[paper]](https://arxiv.org/abs/1712.00961)
 
 ## 2016
 
@@ -45,3 +47,4 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 * Building Machines that Learn & Think Like People (2018, Tenenbaum) [[youtube]](https://www.youtube.com/watch?v=RB78vRUO6X8&t=1807s)
 * From Deep Learning of Disentangled Representations to Higher-level Cognition (2018, Bengio) [[youtube]](https://www.youtube.com/watch?v=Yr1mOzC93xs)
+
