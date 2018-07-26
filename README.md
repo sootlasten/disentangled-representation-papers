@@ -40,3 +40,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ? Disentangling Factors of Variation via Generative Entangling (2012, Desjardinis et. al.) [[paper]](https://arxiv.org/abs/1210.5474)
 * ** Learning Factorial Codes By Predictability Minimization (1992, Schmidhuber) [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.6.863)
 * __***__ Self-Organization in a Perceptual Network (1988, Linsker) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=36)
+
+## Talks
+
+* From Deep Learning of Disentangled Representations to Higher-level Cognition (2018, Bengio) [[youtube]](https://www.youtube.com/watch?v=Yr1mOzC93xs)
