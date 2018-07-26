@@ -1,4 +1,4 @@
-This is a curated list of papers on disentangled (and an occasional "conventional") representation learning. Within each year, the papers are ordered from newest to oldest. I've scored each paper by the degree of importance the paper has had to the field (in my own personal opinion) on a scale of 1 to 3, as indicated by the number of stars in front of each entry in the list.
+This is a curated list of papers on disentangled (and an occasional "conventional") representation learning. Within each year, the papers are ordered from newest to oldest. I've scored the importance/quality of each paper (in my own personal opinion) on a scale of 1 to 3, as indicated by the number of stars in front of each entry in the list.
 
 ### 2018 
 
