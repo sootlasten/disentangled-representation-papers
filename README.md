@@ -6,6 +6,7 @@
 ### 2017
 
 * The Consciousness Prior (Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
+* Experiments on the Consciousness Prior (Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
 
 ### 2016
 
