@@ -7,7 +7,7 @@
 ### 2016
 
 * Understanding disentangling in β-VAE (Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
-* Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae)
+* β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae)
 
 ### Older gems
 
