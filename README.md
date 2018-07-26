@@ -26,12 +26,9 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * __***__ InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (Jun, Chen et. al.) [[paper]](https://arxiv.org/abs/1606.03657)
 * __***__ Building Machines That Learn and Think Like People (Apr, Lake et. al.) [[paper]](https://arxiv.org/abs/1604.00289)
 
-## 2015
-
-* ** Deep Convolutional Inverse Graphics Network (Mar, Kulkarni et. al.) [[paper]](https://arxiv.org/abs/1503.03167)
-
 ## Older gems
 
+* ** Deep Convolutional Inverse Graphics Network (2015, Kulkarni et. al.) [[paper]](https://arxiv.org/abs/1503.03167)
 * __***__ Representation Learning: A Review and New Perspectives (2013, Bengio et. al.) [[paper]](https://arxiv.org/abs/1206.5538?context=cs)
 * ? Disentangling Factors of Variation via Generative Entangling (2012, Desjardinis et. al.) [[paper]](https://arxiv.org/abs/1210.5474)
 * ** Learning Factorial Codes By Predictability Minimization (1992, Schmidhuber) [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.6.863)
