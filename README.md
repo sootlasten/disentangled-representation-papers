@@ -6,7 +6,7 @@
 
 ### 2016
 
-* [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Higgins et. al.)](https://openreview.net/forum?id=Sy2fzU9gl)
+* [Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Higgins et. al.)](https://openreview.net/forum?id=Sy2fzU9gl)
 
 ### Older gems
 
