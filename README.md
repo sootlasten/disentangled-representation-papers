@@ -29,7 +29,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * __***__ Attend, Infer, Repeat: Fast Scene Understanding with Generative Models (Mar, Eslami et. al.) [[paper]](https://arxiv.org/abs/1603.08575?context=cs)
 * __***__ Building Machines That Learn and Think Like People (Apr, Lake et. al.) [[paper]](https://arxiv.org/abs/1604.00289)
 
-## Older gems
+## Older work
 
 * ** Deep Convolutional Inverse Graphics Network (2015, Kulkarni et. al.) [[paper]](https://arxiv.org/abs/1503.03167)
 * __***__ Representation Learning: A Review and New Perspectives (2013, Bengio et. al.) [[paper]](https://arxiv.org/abs/1206.5538?context=cs)
