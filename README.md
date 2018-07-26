@@ -20,6 +20,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ** The Consciousness Prior (Sep, Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
 * \* SCAN: Learning Hierarchical Compositional Visual Concepts (Jul, Higgins. et. al.) [[paper]]( https://arxiv.org/abs/1707.03389)
 * __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Jul, Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
+* ** A simple neural network module for relational reasoning (Jun, Santoro et. al.) [[paper]](https://arxiv.org/abs/1706.01427)
 
 ## 2016
 
