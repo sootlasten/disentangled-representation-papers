@@ -3,6 +3,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 3. A must read. Either contains current state of the art results, or has interesting underdeveloped insights.
 2. A good paper, and was likely state-of-the-art during the time it was published. However, it has since been superseded by other works, and it didn't have enough fundamental substance for it to be a must-read at present. 
 1. Likely worth reading only if you're interested in doing research in the subfield yourself, and need some concrete ideas for (incremental) improvements. 
+{: reversed="reversed"}
 
 ### 2018 
 
