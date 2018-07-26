@@ -3,6 +3,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 ## 2018 
 
 * ** Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects (Jun, Kosiorek et. al.) [[paper]](https://arxiv.org/abs/1806.01794)
+* __***__ Neural scene representation and rendering (Jun, Eslami et. al.) [[paper]](https://deepmind.com/research/publications/neural-scene-representation-and-rendering/)
 * \* Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104)
 * ** Understanding disentangling in β-VAE (Apr, Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
 * ** Unsupervised Representation Learning by Predicting Image Rotations (Mar, Gidaris et. al.) [[paper]](https://arxiv.org/abs/1803.07728)
