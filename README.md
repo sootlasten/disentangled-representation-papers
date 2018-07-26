@@ -12,7 +12,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 * \* Experiments on the Consciousness Prior (Sep, Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
 * ** The Consciousness Prior (Sep, Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
-* \* SCAN: Learning Hierarchical Compositional Visual Concepts [[paper]](Jul, https://arxiv.org/abs/1707.03389)
+* \* SCAN: Learning Hierarchical Compositional Visual Concepts (Jul, Higgins. et. al.) [[paper]]( https://arxiv.org/abs/1707.03389)
 * __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Jul, Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
 
 ## 2016
