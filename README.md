@@ -2,7 +2,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 1. __***__: A must read. Either contains current state of the art results, or has interesting underdeveloped insights.
 2. **: A good paper, and was likely state-of-the-art during the time it was published. However, it has since been superseded by other works, and it doesn't have enough fundamental substance for it to be a must-read at present.
-3. \*: Likely worth reading only for culture, or if you're interested in doing research and need some concrete ideas for (incremental) improvements. 
+3. \*: Worth reading only for culture, or if you're interested in doing research and need some concrete ideas for (incremental) improvements. 
 
 ## 2018 
 
