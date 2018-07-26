@@ -6,7 +6,8 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ** Understanding disentangling in β-VAE (Apr, Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
 * __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Mar, Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2)
 * ** Disentangling by Factorising (Feb, Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
-* ** Disentangling the independently controllable factors of variation by interacting with the world (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484) 
+* ** Disentangling the independently controllable factors of variation by interacting with the world (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
+* ? Auto-Encoding Total Correlation Explanation (Feb, Gao et. al.) [[paper]](https://arxiv.org/abs/1802.05822v1)
  
 ## 2017
 
