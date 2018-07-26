@@ -1,3 +1,5 @@
+This is a curated list of papers on disentangled (and an occasional "conventional") representation learning. Within each year, the papers are ordered from newest to oldest, so one can have a rough idea on the structure of the dependency tree of the papers by just skimming through the list of headings.
+
 ### 2018 
 
 * Disentangling by Factorising (Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
