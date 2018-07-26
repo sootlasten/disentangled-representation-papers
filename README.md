@@ -5,6 +5,8 @@
  
 ### 2017
 
+* The Consciousness Prior (Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
+
 ### 2016
 
 * Understanding disentangling in β-VAE (Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
