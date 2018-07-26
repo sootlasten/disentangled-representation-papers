@@ -3,6 +3,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 ### 2018 
 
 __**__ Isolating Sources of Disentanglement in Variational Autoencoders (Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2)
+
 __**__ Disentangling by Factorising (Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
  
 ### 2017
