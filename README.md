@@ -2,6 +2,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ## 2018 
 
+* ? Insights on representational similarity in neural networks with canonical correlation (Jun, Morcos et. al.) [[paper]](https://arxiv.org/abs/1806.05759)
 * ** Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects (Jun, Kosiorek et. al.) [[paper]](https://arxiv.org/abs/1806.01794)
 * __***__ Neural Scene Representation and Rendering (Jun, Eslami et. al.) [[paper]](https://deepmind.com/research/publications/neural-scene-representation-and-rendering/)
 * \* Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104)
