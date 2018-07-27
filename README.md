@@ -12,6 +12,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ** Disentangling by Factorising (Feb, Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
 * ** Disentangling the Independently Controllable Factors of Variation by Interacting with the World (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
 * ? Auto-Encoding Total Correlation Explanation (Feb, Gao et. al.) [[paper]](https://arxiv.org/abs/1802.05822v1)
+* ? Fixing a Broken ELBO (Feb, Alemi et. al.) [[paper]](https://arxiv.org/abs/1711.00464) 
  
 ## 2017
 
