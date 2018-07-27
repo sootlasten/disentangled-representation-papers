@@ -19,6 +19,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ? The β-VAE's Implicit Prior (Dec, Hoffman et. al.) [[paper]](http://bayesiandeeplearning.org/2017/papers/66.pdf)
 * ** The Multi-Entity Variational Autoencoder (Dec, Nash et. al.) [[paper]](http://charlienash.github.io/assets/docs/mevae2017.pdf)
 * ? Learning Independent Causal Mechanisms (Dec, Parascandolo et. al.) [[paper]](https://arxiv.org/abs/1712.00961)
+\ ? Variational Inference of Disentangled Latent Concepts from Unlabeled Observations (Nov, Kumar et. al.) [[paper]](https://arxiv.org/abs/1711.00848)
 * \* Neural Discrete Representation Learning (Nov, Oord et. al.) [[paper]](https://arxiv.org/abs/1711.00937v2)
 * ? Disentangled Representations via Synergy Minimization (Oct, Steeg et. al.) [[paper]](https://arxiv.org/abs/1710.03839v1)
 * \* Experiments on the Consciousness Prior (Sep, Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
