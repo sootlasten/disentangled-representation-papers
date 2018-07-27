@@ -24,6 +24,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ? Disentangling Motion, Foreground and Background Features in Videos (Jul, Lin. et. al.) [[paper]](https://imatge-upc.github.io/unsupervised-2017-cvprw/)
 * \* SCAN: Learning Hierarchical Compositional Visual Concepts (Jul, Higgins. et. al.) [[paper]]( https://arxiv.org/abs/1707.03389)
 * __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Jul, Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
+* ? PixelGAN Autoencoders (Jun, Makhzani & Frey) [[paper]](https://arxiv.org/abs/1706.00531)
 * ? Emergence of Invariance and Disentanglement in Deep Representations (Jun, Achille & Soatto) [[paper]](https://arxiv.org/abs/1706.01350)
 * ** A Simple Neural Network Module for Relational Reasoning (Jun, Santoro et. al.) [[paper]](https://arxiv.org/abs/1706.01427)
 * ? Unsupervised Learning of Disentangled Representations from Video (May, Denton & Birodkar) [[paper]](https://arxiv.org/abs/1705.10915)
