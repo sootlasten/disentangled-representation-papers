@@ -20,6 +20,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ? Disentangled Representations via Synergy Minimization (Oct, Steeg et. al.) [[paper]](https://arxiv.org/abs/1710.03839v1)
 * \* Experiments on the Consciousness Prior (Sep, Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
 * ** The Consciousness Prior (Sep, Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
+* ? Disentangling Motion, Foreground and Background Features in Videos (Jul, Lin. et. al.) [[paper]](https://imatge-upc.github.io/unsupervised-2017-cvprw/)
 * \* SCAN: Learning Hierarchical Compositional Visual Concepts (Jul, Higgins. et. al.) [[paper]]( https://arxiv.org/abs/1707.03389)
 * __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Jul, Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
 * ? Emergence of Invariance and Disentanglement in Deep Representations (Jun, Achille & Soatto) [[paper]](https://arxiv.org/abs/1706.01350)
