@@ -2,7 +2,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ## 2018 
 
-* ? Insights on representational similarity in neural networks with canonical correlation (Jun, Morcos et. al.) [[paper]](https://arxiv.org/abs/1806.05759)
+* ? Insights On Representational Similarity In Neural Networks With Canonical Correlation (Jun, Morcos et. al.) [[paper]](https://arxiv.org/abs/1806.05759)
 * ** Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects (Jun, Kosiorek et. al.) [[paper]](https://arxiv.org/abs/1806.01794)
 * __***__ Neural Scene Representation and Rendering (Jun, Eslami et. al.) [[paper]](https://deepmind.com/research/publications/neural-scene-representation-and-rendering/)
 * \* Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104)
@@ -10,7 +10,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ** Unsupervised Representation Learning by Predicting Image Rotations (Mar, Gidaris et. al.) [[paper]](https://arxiv.org/abs/1803.07728)
 * __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Mar, Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2)
 * ** Disentangling by Factorising (Feb, Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
-* ** Disentangling the independently controllable factors of variation by interacting with the world (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
+* ** Disentangling the Independently Controllable Factors of Variation by Interacting With the World (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
 * ? Auto-Encoding Total Correlation Explanation (Feb, Gao et. al.) [[paper]](https://arxiv.org/abs/1802.05822v1)
  
 ## 2017
@@ -25,7 +25,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * \* SCAN: Learning Hierarchical Compositional Visual Concepts (Jul, Higgins. et. al.) [[paper]]( https://arxiv.org/abs/1707.03389)
 * __***__ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (Jul, Higgins et. al.) [[paper]](https://arxiv.org/abs/1707.08475)
 * ? Emergence of Invariance and Disentanglement in Deep Representations (Jun, Achille & Soatto) [[paper]](https://arxiv.org/abs/1706.01350)
-* ** A simple neural network module for relational reasoning (Jun, Santoro et. al.) [[paper]](https://arxiv.org/abs/1706.01427)
+* ** A Simple Neural Network Module for Relational Reasoning (Jun, Santoro et. al.) [[paper]](https://arxiv.org/abs/1706.01427)
 * ? Unsupervised Learning of Disentangled Representations from Video (May, Denton & Birodkar) [[paper]](https://arxiv.org/abs/1705.10915)
 
 ## 2016
