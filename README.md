@@ -8,7 +8,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * \* Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104) [[code]](https://github.com/Schlumberger/joint-vae)
 * ** Understanding disentangling in β-VAE (Apr, Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
 * ** Unsupervised Representation Learning by Predicting Image Rotations (Mar, Gidaris et. al.) [[paper]](https://arxiv.org/abs/1803.07728)
-* __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Mar, Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2)
+* __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Mar, Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2) [[code]](https://github.com/rtqichen/beta-tcvae)
 * ** Disentangling by Factorising (Feb, Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
 * ** Disentangling the Independently Controllable Factors of Variation by Interacting with the World (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
 * ? Auto-Encoding Total Correlation Explanation (Feb, Gao et. al.) [[paper]](https://arxiv.org/abs/1802.05822v1)
