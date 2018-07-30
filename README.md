@@ -22,6 +22,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ? Variational Inference of Disentangled Latent Concepts from Unlabeled Observations (Nov, Kumar et. al.) [[paper]](https://arxiv.org/abs/1711.00848)
 * \* Neural Discrete Representation Learning (Nov, Oord et. al.) [[paper]](https://arxiv.org/abs/1711.00937v2)
 * ? Disentangled Representations via Synergy Minimization (Oct, Steeg et. al.) [[paper]](https://arxiv.org/abs/1710.03839v1)
+* ? Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data (Sep, Hsu et. al.) [[paper]](https://arxiv.org/abs/1709.07902) [[code]](https://github.com/wnhsu/ScalableFHVAE)
 * \* Experiments on the Consciousness Prior (Sep, Bengio & Fedus) [[paper]](https://ai-on.org/pdf/bengio-consciousness-prior.pdf)
 * ** The Consciousness Prior (Sep, Bengio) [[paper]](https://arxiv.org/abs/1709.08568)
 * ? Disentangling Motion, Foreground and Background Features in Videos (Jul, Lin. et. al.) [[paper]](https://imatge-upc.github.io/unsupervised-2017-cvprw/)
