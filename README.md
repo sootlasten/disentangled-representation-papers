@@ -13,7 +13,15 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ** Disentangling the Independently Controllable Factors of Variation by Interacting with the World (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
 * ? Auto-Encoding Total Correlation Explanation (Feb, Gao et. al.) [[paper]](https://arxiv.org/abs/1802.05822v1)
 * ? Fixing a Broken ELBO (Feb, Alemi et. al.) [[paper]](https://arxiv.org/abs/1711.00464) 
- 
+* Disentangled Sequential Autoencoder (Li, Mandt) [[paper]](https://arxiv.org/abs/1803.02991) 
+* Image-to-image translation for cross-domain disentanglement (Gonzalez-Garcia, JoostWeijer, Bengio) [[paper]](https://arxiv.org/abs/1805.09730)
+
+* Structured Disentangled Representations (Esmaeili, Wu et.al.) [[paper]](https://arxiv.org/abs/1804.02086)
+* Learning Disentangled Representations with Wasserstein Auto-Encoders (
+Rubenstein, Schoelkopf, Tolstikhin) [[paper]](https://openreview.net/forum?id=Hy79-UJPM)
+
+* Rethinking Style and Content Disentanglement in Variational Autoencoders (Shu, Zhao, Kochenderfer) [[paper]](https://openreview.net/forum?id=B1rQtwJDG)
+* A Framework for the Quantitative Evaluation of Disentangled Representations (Eastwood, Williams) [[paper]](https://openreview.net/forum?id=By-7dz-AZ)
 ## 2017
 
 * ? The β-VAE's Implicit Prior (Dec, Hoffman et. al.) [[paper]](http://bayesiandeeplearning.org/2017/papers/66.pdf)
@@ -33,6 +41,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ? Emergence of Invariance and Disentanglement in Deep Representations (Jun, Achille & Soatto) [[paper]](https://arxiv.org/abs/1706.01350)
 * ** A Simple Neural Network Module for Relational Reasoning (Jun, Santoro et. al.) [[paper]](https://arxiv.org/abs/1706.01427)
 * ? Unsupervised Learning of Disentangled Representations from Video (May, Denton & Birodkar) [[paper]](https://arxiv.org/abs/1705.10915)
+* Learning Disentangled Representations with Semi-Supervised Deep Generative Models  (Narayanaswamy, Siddharth, et al.)  [[paper]](https://arxiv.org/abs/1706.00400)
 
 ## 2016
 
@@ -44,6 +53,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * __***__ Building Machines That Learn and Think Like People (Apr, Lake et. al.) [[paper]](https://arxiv.org/abs/1604.00289)
 * ? Disentangled Representations in Neural Models (Feb, Whitney) [[paper]](https://arxiv.org/abs/1602.02383v1)
 
+* Disentangling factors of variation in deep representations using adversarial training (Mathieu, Michael F., et al.) [[paper]](https://arxiv.org/abs/1611.03383)
 ## Older work
 
 * ** Deep Convolutional Inverse Graphics Network (2015, Kulkarni et. al.) [[paper]](https://arxiv.org/abs/1503.03167)
