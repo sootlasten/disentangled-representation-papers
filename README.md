@@ -16,7 +16,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ** Disentangling the Independently Controllable Factors of Variation by Interacting with the World (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
 * ? Auto-Encoding Total Correlation Explanation (Feb, Gao et. al.) [[paper]](https://arxiv.org/abs/1802.05822v1)
 * ? Fixing a Broken ELBO (Feb, Alemi et. al.) [[paper]](https://arxiv.org/abs/1711.00464)  
-* * Learning Disentangled Representations with Wasserstein Auto-Encoders (Feb, Rubenstein et. al.) [[paper]](https://openreview.net/forum?id=Hy79-UJPM)
+* \* Learning Disentangled Representations with Wasserstein Auto-Encoders (Feb, Rubenstein et. al.) [[paper]](https://openreview.net/forum?id=Hy79-UJPM)
 * ? Rethinking Style and Content Disentanglement in Variational Autoencoders (Feb, Shu et. al.) [[paper]](https://openreview.net/forum?id=B1rQtwJDG)
 * ? A Framework for the Quantitative Evaluation of Disentangled Representations (Feb, Eastwood & Williams) [[paper]](https://openreview.net/forum?id=By-7dz-AZ)
 
@@ -38,20 +38,20 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ? PixelGAN Autoencoders (Jun, Makhzani & Frey) [[paper]](https://arxiv.org/abs/1706.00531)
 * ? Emergence of Invariance and Disentanglement in Deep Representations (Jun, Achille & Soatto) [[paper]](https://arxiv.org/abs/1706.01350)
 * ** A Simple Neural Network Module for Relational Reasoning (Jun, Santoro et. al.) [[paper]](https://arxiv.org/abs/1706.01427)
+* ? Learning Disentangled Representations with Semi-Supervised Deep Generative Models  (Jun, Siddharth, et al.)  [[paper]](https://arxiv.org/abs/1706.00400)
 * ? Unsupervised Learning of Disentangled Representations from Video (May, Denton & Birodkar) [[paper]](https://arxiv.org/abs/1705.10915)
-* Learning Disentangled Representations with Semi-Supervised Deep Generative Models  (Narayanaswamy, Siddharth, et al.)  [[paper]](https://arxiv.org/abs/1706.00400)
 
 ## 2016
 
 * ** Deep Variational Information Bottleneck (Dec, Alemi et. al.) [[paper]](https://arxiv.org/abs/1612.00410)
 * __***__ β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Nov, Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae)
+* ? Disentangling factors of variation in deep representations using adversarial training (Nov, Mathieu et. al.) [[paper]](https://arxiv.org/abs/1611.03383)
 * ** Information Dropout: Learning Optimal Representations Through Noisy Computation (Nov, Achille & Soatto) [[paper]](https://arxiv.org/abs/1611.01353)
 * ** InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (Jun, Chen et. al.) [[paper]](https://arxiv.org/abs/1606.03657)
 * __***__ Attend, Infer, Repeat: Fast Scene Understanding with Generative Models (Mar, Eslami et. al.) [[paper]](https://arxiv.org/abs/1603.08575?context=cs)
 * __***__ Building Machines That Learn and Think Like People (Apr, Lake et. al.) [[paper]](https://arxiv.org/abs/1604.00289)
 * ? Disentangled Representations in Neural Models (Feb, Whitney) [[paper]](https://arxiv.org/abs/1602.02383v1)
 
-* Disentangling factors of variation in deep representations using adversarial training (Mathieu, Michael F., et al.) [[paper]](https://arxiv.org/abs/1611.03383)
 ## Older work
 
 * ** Deep Convolutional Inverse Graphics Network (2015, Kulkarni et. al.) [[paper]](https://arxiv.org/abs/1503.03167)
