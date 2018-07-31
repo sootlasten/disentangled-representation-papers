@@ -5,23 +5,21 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ? Insights on Representational Similarity in Neural Networks with Canonical Correlation (Jun, Morcos et. al.) [[paper]](https://arxiv.org/abs/1806.05759)
 * ** Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects (Jun, Kosiorek et. al.) [[paper]](https://arxiv.org/abs/1806.01794)
 * __***__ Neural Scene Representation and Rendering (Jun, Eslami et. al.) [[paper]](https://deepmind.com/research/publications/neural-scene-representation-and-rendering/)
+* ? Image-to-image translation for cross-domain disentanglement (May, Gonzalez-Garcia et. al.) [[paper]](https://arxiv.org/abs/1805.09730)
 * \* Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104) [[code]](https://github.com/Schlumberger/joint-vae)
+* ? Structured Disentangled Representations (Apr, Esmaeili et. al.) [[paper]](https://arxiv.org/abs/1804.02086)
 * ** Understanding disentangling in β-VAE (Apr, Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
 * ** Unsupervised Representation Learning by Predicting Image Rotations (Mar, Gidaris et. al.) [[paper]](https://arxiv.org/abs/1803.07728)
+* ? Disentangled Sequential Autoencoder (Mar, Li & Mandt) [[paper]](https://arxiv.org/abs/1803.02991)
 * __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Mar, Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2) [[code]](https://github.com/rtqichen/beta-tcvae)
 * ** Disentangling by Factorising (Feb, Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
 * ** Disentangling the Independently Controllable Factors of Variation by Interacting with the World (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
 * ? Auto-Encoding Total Correlation Explanation (Feb, Gao et. al.) [[paper]](https://arxiv.org/abs/1802.05822v1)
-* ? Fixing a Broken ELBO (Feb, Alemi et. al.) [[paper]](https://arxiv.org/abs/1711.00464) 
-* Disentangled Sequential Autoencoder (Li, Mandt) [[paper]](https://arxiv.org/abs/1803.02991) 
-* Image-to-image translation for cross-domain disentanglement (Gonzalez-Garcia, JoostWeijer, Bengio) [[paper]](https://arxiv.org/abs/1805.09730)
+* ? Fixing a Broken ELBO (Feb, Alemi et. al.) [[paper]](https://arxiv.org/abs/1711.00464)  
+* * Learning Disentangled Representations with Wasserstein Auto-Encoders (Feb, Rubenstein et. al.) [[paper]](https://openreview.net/forum?id=Hy79-UJPM)
+* ? Rethinking Style and Content Disentanglement in Variational Autoencoders (Feb, Shu et. al.) [[paper]](https://openreview.net/forum?id=B1rQtwJDG)
+* ? A Framework for the Quantitative Evaluation of Disentangled Representations (Feb, Eastwood & Williams) [[paper]](https://openreview.net/forum?id=By-7dz-AZ)
 
-* Structured Disentangled Representations (Esmaeili, Wu et.al.) [[paper]](https://arxiv.org/abs/1804.02086)
-* Learning Disentangled Representations with Wasserstein Auto-Encoders (
-Rubenstein, Schoelkopf, Tolstikhin) [[paper]](https://openreview.net/forum?id=Hy79-UJPM)
-
-* Rethinking Style and Content Disentanglement in Variational Autoencoders (Shu, Zhao, Kochenderfer) [[paper]](https://openreview.net/forum?id=B1rQtwJDG)
-* A Framework for the Quantitative Evaluation of Disentangled Representations (Eastwood, Williams) [[paper]](https://openreview.net/forum?id=By-7dz-AZ)
 ## 2017
 
 * ? The β-VAE's Implicit Prior (Dec, Hoffman et. al.) [[paper]](http://bayesiandeeplearning.org/2017/papers/66.pdf)
