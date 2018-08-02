@@ -14,6 +14,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * __***__ Isolating Sources of Disentanglement in Variational Autoencoders (Mar, Chen et. al.) [[paper]](https://arxiv.org/abs/1802.04942v2) [[code]](https://github.com/rtqichen/beta-tcvae)
 * ** Disentangling by Factorising (Feb, Kim & Mnih) [[paper]](https://arxiv.org/abs/1802.05983)
 * ** Disentangling the Independently Controllable Factors of Variation by Interacting with the World (Feb, Bengio's group) [[paper]](https://arxiv.org/abs/1802.09484)
+* ? On the Latent Space of Wasserstein Auto-Encoders (Feb, Rubenstein et. al.) [[paper]](https://arxiv.org/abs/1802.03761)
 * ? Auto-Encoding Total Correlation Explanation (Feb, Gao et. al.) [[paper]](https://arxiv.org/abs/1802.05822v1)
 * ? Fixing a Broken ELBO (Feb, Alemi et. al.) [[paper]](https://arxiv.org/abs/1711.00464)  
 * \* Learning Disentangled Representations with Wasserstein Auto-Encoders (Feb, Rubenstein et. al.) [[paper]](https://openreview.net/forum?id=Hy79-UJPM)
