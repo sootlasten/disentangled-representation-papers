@@ -7,6 +7,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * __***__ Neural Scene Representation and Rendering (Jun, Eslami et. al.) [[paper]](https://deepmind.com/research/publications/neural-scene-representation-and-rendering/)
 * ? Image-to-image translation for cross-domain disentanglement (May, Gonzalez-Garcia et. al.) [[paper]](https://arxiv.org/abs/1805.09730)
 * \* Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104) [[code]](https://github.com/Schlumberger/joint-vae)
+* ? DGPose: Disentangled Semi-supervised Deep Generative Models for Human Body Analysis (Bem et. al.) [[paper]](https://arxiv.org/abs/1804.06364)
 * ? Structured Disentangled Representations (Apr, Esmaeili et. al.) [[paper]](https://arxiv.org/abs/1804.02086)
 * ** Understanding disentangling in β-VAE (Apr, Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
 * ? On the importance of single directions for generalization (Mar, Morcos et. al.) [[paper]](https://arxiv.org/abs/1803.06959)
