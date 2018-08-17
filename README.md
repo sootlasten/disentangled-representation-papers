@@ -67,3 +67,4 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 * Building Machines that Learn & Think Like People (2018, Tenenbaum) [[youtube]](https://www.youtube.com/watch?v=RB78vRUO6X8&t=1807s)
 * From Deep Learning of Disentangled Representations to Higher-level Cognition (2018, Bengio) [[youtube]](https://www.youtube.com/watch?v=Yr1mOzC93xs)
+* What is wrong with convolutional neural nets? (2017, Hinton) [[youtube]](https://www.youtube.com/watch?v=rTawFwUvnLE&t=2152s)
