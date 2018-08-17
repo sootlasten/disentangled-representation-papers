@@ -60,6 +60,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ** Deep Convolutional Inverse Graphics Network (2015, Kulkarni et. al.) [[paper]](https://arxiv.org/abs/1503.03167)
 * __***__ Representation Learning: A Review and New Perspectives (2013, Bengio et. al.) [[paper]](https://arxiv.org/abs/1206.5538?context=cs)
 * ? Disentangling Factors of Variation via Generative Entangling (2012, Desjardinis et. al.) [[paper]](https://arxiv.org/abs/1210.5474)
+* __***__ Transforming Auto-encoders (2011, Hinton et. al.) [[paper]](https://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)
 * ** Learning Factorial Codes By Predictability Minimization (1992, Schmidhuber) [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.6.863)
 * __***__ Self-Organization in a Perceptual Network (1988, Linsker) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=36)
 
