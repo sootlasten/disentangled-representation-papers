@@ -53,6 +53,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 * ** InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (Jun, Chen et. al.) [[paper]](https://arxiv.org/abs/1606.03657)
 * __***__ Attend, Infer, Repeat: Fast Scene Understanding with Generative Models (Mar, Eslami et. al.) [[paper]](https://arxiv.org/abs/1603.08575?context=cs)
 * __***__ Building Machines That Learn and Think Like People (Apr, Lake et. al.) [[paper]](https://arxiv.org/abs/1604.00289)
+* * Understanding Visual Concepts with Continuation Learning (Feb, Whitney et. al.) [[paper]](https://arxiv.org/abs/1602.06822)
 * ? Disentangled Representations in Neural Models (Feb, Whitney) [[paper]](https://arxiv.org/abs/1602.02383v1)
 
 ## Older work
