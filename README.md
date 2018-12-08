@@ -2,7 +2,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ## 2018 
 
-* Towards a Definition of Disentangled Representations (Dec, Higgins et. al.) [[paper]](https://arxiv.org/pdf/1812.02230v1.pdf)
+* ? Towards a Definition of Disentangled Representations (Dec, Higgins et. al.) [[paper]](https://arxiv.org/pdf/1812.02230v1.pdf)
 * ? Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (Dec, Locatello et. al.) [[paper]](https://arxiv.org/abs/1811.12359v1)
 * ? Learning Deep Representations by Mutual Information Estimation and Maximization (Aug, Hjelm et. al.) [[paper]](https://arxiv.org/abs/1808.06670)
 * ** Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies (Aug, Achille et. al.) [[paper]](https://arxiv.org/abs/1808.06508)
