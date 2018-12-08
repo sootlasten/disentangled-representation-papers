@@ -2,6 +2,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ## 2018 
 
+* ? Visual Object Networks: Image Generation with Disentangled 3D Representation (Dec, Zhu et. al.) [[paper]](https://arxiv.org/abs/1812.02725v1)
 * ? Towards a Definition of Disentangled Representations (Dec, Higgins et. al.) [[paper]](https://arxiv.org/pdf/1812.02230v1.pdf)
 * ? Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (Dec, Locatello et. al.) [[paper]](https://arxiv.org/abs/1811.12359v1)
 * ? Learning Deep Representations by Mutual Information Estimation and Maximization (Aug, Hjelm et. al.) [[paper]](https://arxiv.org/abs/1808.06670)
