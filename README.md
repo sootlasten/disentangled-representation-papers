@@ -2,6 +2,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ## 2018 
 
+* ? Recent Advances in Autoencoder-Based Representation Learning (Dec, Tschannen et. al.) [[paper]](http://bayesiandeeplearning.org/2018/papers/151.pdf?fbclid=IwAR0AKPuAsCFFsTCJ52o6-BkJebR9UuURnesksd1wf5QfLvuU2LBetc7moKc)
 * ? Visual Object Networks: Image Generation with Disentangled 3D Representation (Dec, Zhu et. al.) [[paper]](https://arxiv.org/abs/1812.02725v1)
 * ? Towards a Definition of Disentangled Representations (Dec, Higgins et. al.) [[paper]](https://arxiv.org/pdf/1812.02230v1.pdf)
 * ? Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (Dec, Locatello et. al.) [[paper]](https://arxiv.org/abs/1811.12359v1)
