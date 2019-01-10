@@ -2,6 +2,7 @@ This is a curated list of papers on disentangled (and an occasional "conventiona
 
 ## 2018 
 
+* ? Hyperprior Induced Unsupervised Disentanglement of Latent Representations (Jan, Ansari and Soh) [[paper]](https://arxiv.org/abs/1809.04497)
 * ? A Spectral Regularizer for Unsupervised Disentanglement (Dec, Ramesh et. al.) [[paper]](https://arxiv.org/abs/1812.01161v1)
 * ? Disentangling Disentanglement  (Dec, Mathieu et. al.) [[paper]](https://arxiv.org/abs/1812.02833v1)
 * ? Recent Advances in Autoencoder-Based Representation Learning (Dec, Tschannen et. al.) [[paper]](http://bayesiandeeplearning.org/2018/papers/151.pdf?fbclid=IwAR0AKPuAsCFFsTCJ52o6-BkJebR9UuURnesksd1wf5QfLvuU2LBetc7moKc)
